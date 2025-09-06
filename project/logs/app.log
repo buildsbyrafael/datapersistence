@@ -1,0 +1,18 @@
+2025-07-24 03:04:32,771 — myapp — INFO — → GET /docs
+2025-07-24 03:04:32,773 — myapp — INFO — ← GET /docs — status 200
+2025-07-24 03:04:32,853 — myapp — INFO — → GET /openapi.json
+2025-07-24 03:04:32,915 — myapp — INFO — ← GET /openapi.json — status 200
+2025-07-24 03:04:45,224 — myapp — INFO — → GET /remuneracoes/estatisticas/geral
+2025-07-24 03:04:46,144 — myapp — INFO — ← GET /remuneracoes/estatisticas/geral — status 500
+2025-07-24 03:05:47,446 — myapp — INFO — → GET /remuneracoes/todas
+2025-07-24 03:05:47,459 — myapp — INFO — ← GET /remuneracoes/todas — status 200
+2025-07-24 03:09:04,187 — myapp — INFO — → GET /afastamentos/periodo
+2025-07-24 03:09:04,201 — myapp — INFO — ← GET /afastamentos/periodo — status 200
+2025-07-24 03:09:21,912 — myapp — INFO — → GET /analytics/insights/2025
+2025-07-24 03:10:19,545 — myapp — INFO — ← GET /analytics/insights/2025 — status 200
+2025-07-24 03:11:35,314 — myapp — INFO — → GET /analytics/download/estatisticas-csv/2025
+2025-07-24 03:11:41,997 — myapp — INFO — ← GET /analytics/download/estatisticas-csv/2025 — status 200
+2025-07-24 16:03:30,927 — myapp — INFO — → GET /docs
+2025-07-24 16:03:30,937 — myapp — INFO — ← GET /docs — status 200
+2025-07-24 16:03:31,029 — myapp — INFO — → GET /openapi.json
+2025-07-24 16:03:31,076 — myapp — INFO — ← GET /openapi.json — status 200
